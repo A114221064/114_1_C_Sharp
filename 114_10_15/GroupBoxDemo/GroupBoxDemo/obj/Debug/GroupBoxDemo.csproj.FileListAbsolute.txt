@@ -1,0 +1,9 @@
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_15\GroupBoxDemo\GroupBoxDemo\bin\Debug\GroupBoxDemo.exe.config
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_15\GroupBoxDemo\GroupBoxDemo\bin\Debug\GroupBoxDemo.exe
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_15\GroupBoxDemo\GroupBoxDemo\bin\Debug\GroupBoxDemo.pdb
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_15\GroupBoxDemo\GroupBoxDemo\obj\Debug\GroupBoxDemo.csproj.AssemblyReference.cache
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_15\GroupBoxDemo\GroupBoxDemo\obj\Debug\GroupBoxDemo.Properties.Resources.resources
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_15\GroupBoxDemo\GroupBoxDemo\obj\Debug\GroupBoxDemo.csproj.GenerateResource.cache
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_15\GroupBoxDemo\GroupBoxDemo\obj\Debug\GroupBoxDemo.csproj.CoreCompileInputs.cache
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_15\GroupBoxDemo\GroupBoxDemo\obj\Debug\GroupBoxDemo.exe
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_15\GroupBoxDemo\GroupBoxDemo\obj\Debug\GroupBoxDemo.pdb
