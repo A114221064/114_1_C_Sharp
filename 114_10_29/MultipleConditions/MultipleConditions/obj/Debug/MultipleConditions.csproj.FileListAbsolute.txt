@@ -1,0 +1,11 @@
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_29\MultipleConditions\MultipleConditions\bin\Debug\MultipleConditions.exe.config
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_29\MultipleConditions\MultipleConditions\bin\Debug\MultipleConditions.exe
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_29\MultipleConditions\MultipleConditions\bin\Debug\MultipleConditions.pdb
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_29\MultipleConditions\MultipleConditions\obj\Debug\MultipleConditions.csproj.AssemblyReference.cache
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_29\MultipleConditions\MultipleConditions\obj\Debug\MultipleConditions.Form1.resources
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_29\MultipleConditions\MultipleConditions\obj\Debug\MultipleConditions.Properties.Resources.resources
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_29\MultipleConditions\MultipleConditions\obj\Debug\MultipleConditions.csproj.GenerateResource.cache
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_29\MultipleConditions\MultipleConditions\obj\Debug\MultipleConditions.csproj.CoreCompileInputs.cache
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_29\MultipleConditions\MultipleConditions\obj\Debug\MultipleConditions.exe
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_29\MultipleConditions\MultipleConditions\obj\Debug\MultipleConditions.pdb
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_29\MultipleConditions\MultipleConditions\obj\Debug\MultipleConditions.exe.config
