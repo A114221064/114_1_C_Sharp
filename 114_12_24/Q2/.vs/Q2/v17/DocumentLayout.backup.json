@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\m303\\Desktop\\114_1_C_Sharp\\114_12_24\\Q2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{085B78FC-02B0-4CA1-812C-2C8BCA531E63}|Q2\\Q2.csproj|c:\\users\\m303\\desktop\\114_1_c_sharp\\114_12_24\\q2\\q2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085B78FC-02B0-4CA1-812C-2C8BCA531E63}|Q2\\Q2.csproj|solutionrelative:q2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085B78FC-02B0-4CA1-812C-2C8BCA531E63}|Q2\\Q2.csproj|C:\\Users\\m303\\Desktop\\114_1_C_Sharp\\114_12_24\\Q2\\q2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085B78FC-02B0-4CA1-812C-2C8BCA531E63}|Q2\\Q2.csproj|solutionrelative:q2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085B78FC-02B0-4CA1-812C-2C8BCA531E63}|Q2\\Q2.csproj|C:\\Users\\m303\\Desktop\\114_1_C_Sharp\\114_12_24\\Q2\\q2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{085B78FC-02B0-4CA1-812C-2C8BCA531E63}|Q2\\Q2.csproj|solutionrelative:q2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\m303\\Desktop\\114_1_C_Sharp\\114_12_24\\Q2\\Q2\\Form1.cs",
+              "RelativeDocumentMoniker": "Q2\\Form1.cs",
+              "ToolTip": "C:\\Users\\m303\\Desktop\\114_1_C_Sharp\\114_12_24\\Q2\\Q2\\Form1.cs",
+              "RelativeToolTip": "Q2\\Form1.cs",
+              "ViewState": "AgIAAA4BAAAAAAAAAAAnwJYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T03:43:02.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\m303\\Desktop\\114_1_C_Sharp\\114_12_24\\Q2\\Q2\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Q2\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\m303\\Desktop\\114_1_C_Sharp\\114_12_24\\Q2\\Q2\\Form1.Designer.cs",
+              "RelativeToolTip": "Q2\\Form1.Designer.cs",
+              "ViewState": "AgIAAHEBAAAAAAAAAAAvwBYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T03:42:29.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\m303\\Desktop\\114_1_C_Sharp\\114_12_24\\Q2\\Q2\\Form1.cs",
+              "RelativeDocumentMoniker": "Q2\\Form1.cs",
+              "ToolTip": "C:\\Users\\m303\\Desktop\\114_1_C_Sharp\\114_12_24\\Q2\\Q2\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "Q2\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T03:26:43.683Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
